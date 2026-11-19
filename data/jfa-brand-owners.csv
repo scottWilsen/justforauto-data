@@ -1,0 +1,202 @@
+brand,brand_site,owner,owner_country,owner_city,owner_site
+Mobil,https://www.mobil.com,Exxon Mobil Corporation,United States,Spring,https://corporate.exxonmobil.com
+Castrol,https://www.castrol.com,BP p.l.c.,United Kingdom,London,https://www.bp.com
+Shell,https://www.shell.com,Shell plc,United Kingdom,London,https://www.shell.com
+Pennzoil,https://www.pennzoil.com,Shell plc,United Kingdom,London,https://www.shell.com
+Quaker State,https://www.quakerstate.com,Shell plc,United Kingdom,London,https://www.shell.com
+TotalEnergies,https://totalenergies.com,TotalEnergies SE,France,Courbevoie,https://totalenergies.com
+Fuchs,https://www.fuchs.com,Fuchs SE,Germany,Mannheim,https://www.fuchs.com
+Liqui Moly,https://www.liqui-moly.com,Liqui Moly GmbH,Germany,Ulm,https://www.liqui-moly.com
+Motul,https://www.motul.com,Motul S.A.,France,Aubervilliers,https://www.motul.com
+Valvoline,https://www.valvoline.com,Valvoline Inc.,United States,Lexington,https://www.valvoline.com
+Ravenol,https://www.ravenol.de,Ravensberger Schmierstoffvertrieb GmbH,Germany,Werther,https://www.ravenol.de
+AMSOIL,https://www.amsoil.com,AMSOIL Inc.,United States,Superior,https://www.amsoil.com
+Millers Oils,https://www.millersoils.co.uk,Millers Oils Ltd,United Kingdom,Brighouse,https://www.millersoils.co.uk
+Eurol,https://www.eurol.com,Eurol B.V.,Netherlands,Lochem,https://www.eurol.com
+Kroon-Oil,https://www.kroon-oil.com,Kroon-Oil B.V.,Netherlands,Almere,https://www.kroon-oil.com
+Wolf Oil,https://www.wolfoil.com,Wolf Oil Corporation,Belgium,Hemiksem,https://www.wolfoil.com
+Gulf Oil,https://www.gulfoilltd.com,Gulf Oil International,United Arab Emirates,Dubai,https://www.gulfoilltd.com
+PETRONAS,https://www.petronas.com,PETRONAS Dagangan Berhad,Malaysia,Kuala Lumpur,https://www.petronas.com
+Repsol,https://www.repsol.com,Repsol S.A.,Spain,Madrid,https://www.repsol.com
+Sinopec,https://www.sinopec.com,China Petroleum & Chemical Corporation,China,Beijing,https://www.sinopec.com
+ENEOS,https://www.eneos.co.jp,ENEOS Holdings,Japan,Tokyo,https://www.eneos.co.jp
+Idemitsu,https://www.idemitsu.com,Idemitsu Kosan,Japan,Tokyo,https://www.idemitsu.com
+SK ZIC,https://www.skzic.com,SK Lubricants,South Korea,Seoul,https://www.skoil.com
+S-OIL,https://www.s-oil.com,S-OIL Corporation,South Korea,Seoul,https://www.s-oil.com
+GS Caltex,https://www.gscaltex.com,GS Caltex,South Korea,Seoul,https://www.gscaltex.com
+LUKOIL,https://lukoil.com,LUKOIL,Russia,Moscow,https://lukoil.com
+Gazpromneft,https://www.gazpromneft-oil.com,Gazprom Neft,Russia,Moscow,https://www.gazprom-neft.com
+Pertamina,https://www.pertamina.com,Pertamina,Indonesia,Jakarta,https://www.pertamina.com
+Caltex,https://www.caltex.com,Chevron Corporation,United States,San Ramon,https://www.chevron.com
+Havoline,https://www.havoline.com,Chevron Corporation,United States,San Ramon,https://www.chevron.com
+Mannol,https://www.mannol.de,SCT-Vertriebs GmbH,Germany,Hamburg,https://www.sct.de
+ADDINOL,https://www.addinol.de,ADDINOL Lube Oil GmbH,Germany,Leuna,https://www.addinol.de
+ROWE,https://www.rowe-oil.com,ROWE Mineralölwerk GmbH,Germany,Bubenheim,https://www.rowe-oil.com
+Bosch,https://www.bosch.com,Robert Bosch GmbH,Germany,Gerlingen,https://www.bosch.com
+DENSO,https://www.denso.com,DENSO Corporation,Japan,Kariya,https://www.denso.com
+Aisin,https://www.aisin.com,Aisin Corporation,Japan,Kariya,https://www.aisin.com
+Continental,https://www.continental.com,Continental AG,Germany,Hanover,https://www.continental.com
+ATE,https://www.ate-brakes.com,Continental AG,Germany,Hanover,https://www.continental.com
+ZF,https://www.zf.com,ZF Friedrichshafen AG,Germany,Friedrichshafen,https://www.zf.com
+TRW,https://www.trwaftermarket.com,ZF Friedrichshafen AG,Germany,Friedrichshafen,https://www.zf.com
+SACHS,https://www.zf.com,ZF Friedrichshafen AG,Germany,Friedrichshafen,https://www.zf.com
+Valeo,https://www.valeo.com,Valeo SE,France,Paris,https://www.valeo.com
+Magna,https://www.magna.com,Magna International,Canada,Aurora,https://www.magna.com
+Lear,https://www.lear.com,Lear Corporation,United States,Southfield,https://www.lear.com
+Aptiv,https://www.aptiv.com,Aptiv PLC,Ireland,Dublin,https://www.aptiv.com
+Brembo,https://www.brembo.com,Brembo S.p.A.,Italy,Stezzano,https://www.brembo.com
+Monroe,https://www.monroe.com,Tenneco,United States,Northville,https://www.tenneco.com
+Ferodo,https://www.ferodo.com,Tenneco,United States,Northville,https://www.tenneco.com
+NGK,https://www.ngkntk.co.jp,NGK Spark Plug Co.,Japan,Nagoya,https://www.ngkntk.co.jp
+OSRAM,https://www.osram.com,ams-OSRAM AG,Austria,Premstätten,https://ams-osram.com
+HELLA,https://www.hella.com,FORVIA SE,France,Nanterre,https://www.forvia.com
+FORVIA,https://www.forvia.com,FORVIA SE,France,Nanterre,https://www.forvia.com
+MAHLE,https://www.mahle.com,MAHLE GmbH,Germany,Stuttgart,https://www.mahle.com
+MANN+HUMMEL,https://www.mann-hummel.com,MANN+HUMMEL GmbH,Germany,Ludwigsburg,https://www.mann-hummel.com
+WIX Filters,https://www.wixfilters.com,MANN+HUMMEL GmbH,Germany,Ludwigsburg,https://www.mann-hummel.com
+Marelli,https://www.marelli.com,Marelli Holdings,Japan,Saitama,https://www.marelli.com
+Adient,https://www.adient.com,Adient plc,Ireland,Dublin,https://www.adient.com
+Visteon,https://www.visteon.com,Visteon Corporation,United States,Van Buren,https://www.visteon.com
+Harman,https://www.harman.com,Samsung Electronics,South Korea,Suwon,https://www.samsung.com
+Pioneer,https://www.pioneer.com,Pioneer Corporation,Japan,Tokyo,https://global.pioneer
+Alpine,https://www.alpine.com,Alps Alpine,Japan,Tokyo,https://www.alpsalpine.com
+Kenwood,https://www.kenwood.com,JVCKenwood,Japan,Yokohama,https://www.jvckenwood.com
+BorgWarner,https://www.borgwarner.com,BorgWarner Inc.,United States,Auburn Hills,https://www.borgwarner.com
+Delphi Technologies,https://www.delphi.com,BorgWarner Inc.,United States,Auburn Hills,https://www.borgwarner.com
+Dana,https://www.dana.com,Dana Incorporated,United States,Maumee,https://www.dana.com
+GKN,https://www.gkn.com,Melrose Industries,United Kingdom,London,https://www.melroseplc.net
+NTN,https://www.ntn.co.jp,NTN Corporation,Japan,Osaka,https://www.ntn.co.jp
+NSK,https://www.nsk.com,NSK Ltd.,Japan,Tokyo,https://www.nsk.com
+SKF,https://www.skf.com,AB SKF,Sweden,Gothenburg,https://www.skf.com
+Schaeffler,https://www.schaeffler.com,Schaeffler AG,Germany,Herzogenaurach,https://www.schaeffler.com
+LuK,https://www.schaeffler.com,Schaeffler AG,Germany,Herzogenaurach,https://www.schaeffler.com
+INA,https://www.schaeffler.com,Schaeffler AG,Germany,Herzogenaurach,https://www.schaeffler.com
+FAG,https://www.schaeffler.com,Schaeffler AG,Germany,Herzogenaurach,https://www.schaeffler.com
+Timken,https://www.timken.com,The Timken Company,United States,North Canton,https://www.timken.com
+JATCO,https://www.jatco.co.jp,JATCO Ltd,Japan,Fuji,https://www.jatco.co.jp
+ACDelco,https://www.acdelco.com,General Motors,United States,Detroit,https://www.gm.com
+Gates,https://www.gates.com,Gates Corporation,United States,Denver,https://www.gates.com
+Dayco,https://www.dayco.com,Dayco Incorporated,United States,Troy,https://www.dayco.com
+KYB,https://www.kyb.co.jp,KYB Corporation,Japan,Tokyo,https://www.kyb.co.jp
+Akebono,https://www.akebono-brake.com,Akebono Brake Industry,Japan,Tokyo,https://www.akebono-brake.com
+ADVICS,https://www.advics.co.jp,ADVICS Co.,Japan,Kariya,https://www.advics.co.jp
+Nissin,https://www.nissin-kogyo.co.jp,Hitachi Astemo,Japan,Tokyo,https://www.hitachiastemo.com
+Textar,https://www.textar.com,TMD Friction,Germany,Leverkusen,https://www.tmdfriction.com
+Pagid,https://www.pagid.com,TMD Friction,Germany,Leverkusen,https://www.tmdfriction.com
+Hengst,https://www.hengst.com,HENGST SE,Germany,Münster,https://www.hengst.com
+Donaldson,https://www.donaldson.com,Donaldson Company,United States,Minneapolis,https://www.donaldson.com
+UFI Filters,https://www.ufifilters.com,UFI Filters,Italy,Nogarole Rocca,https://www.ufifilters.com
+Sogefi,https://www.sogefi.com,Sogefi S.p.A.,Italy,Milan,https://www.sogefi.com
+FRAM,https://www.fram.com,First Brands Group,United States,Cleveland,https://www.firstbrands.com
+K&N,https://www.knfilters.com,K&N Engineering,United States,Riverside,https://www.knfilters.com
+BMC,https://www.bmcairfilters.com,BMC Air Filters,Italy,Bologna,https://www.bmcairfilters.com
+Michelin,https://www.michelin.com,Michelin Group,France,Clermont-Ferrand,https://www.michelin.com
+Bridgestone,https://www.bridgestone.com,Bridgestone Corporation,Japan,Tokyo,https://www.bridgestone.com
+Goodyear,https://www.goodyear.com,The Goodyear Tire & Rubber Company,United States,Akron,https://www.goodyear.com
+Pirelli,https://www.pirelli.com,Pirelli & C. S.p.A.,Italy,Milan,https://www.pirelli.com
+Hankook,https://www.hankooktire.com,Hankook Tire & Technology,South Korea,Seoul,https://www.hankooktire.com
+Yokohama,https://www.y-yokohama.com,The Yokohama Rubber Co.,Japan,Tokyo,https://www.y-yokohama.com
+Kumho,https://www.kumhotire.com,Kumho Tire,South Korea,Seoul,https://www.kumhotire.com
+Giti,https://www.giti.com,Giti Tire,Singapore,Singapore,https://www.giti.com
+Nexen,https://www.nexentire.com,Nexen Tire,South Korea,Yangsan,https://www.nexentire.com
+Toyo,https://www.toyotires.com,Toyo Tire Corporation,Japan,Osaka,https://www.toyotires.com
+Maxxis,https://www.maxxis.com,Cheng Shin Rubber,"Taiwan, China",Yuanlin,https://www.cst.com.tw
+Dunlop,https://www.dunloptire.com,Sumitomo Rubber Industries,Japan,Kobe,https://www.srigroup.co.jp
+Apollo Tyres,https://www.apollotyres.com,Apollo Tyres Ltd,India,Gurugram,https://www.apollotyres.com
+MRF,https://www.mrftyres.com,MRF Ltd,India,Chennai,https://www.mrftyres.com
+CEAT,https://www.ceat.com,CEAT Ltd,India,Mumbai,https://www.ceat.com
+JK Tyre,https://www.jktyre.com,JK Tyre & Industries,India,New Delhi,https://www.jktyre.com
+Linglong,https://www.linglong.cn,Shandong Linglong Tire,China,Zhaoyuan,https://www.linglong.cn
+Sailun,https://www.sailungroup.com,Sailun Group,China,Qingdao,https://www.sailungroup.com
+Westlake,https://www.westlaketire.com,Zhongce Rubber Group,China,Hangzhou,https://www.zc-rubber.com
+Triangle,https://www.triangletyre.com,Triangle Tyre,China,Weihai,https://www.triangletyre.com
+CATL,https://www.catl.com,Contemporary Amperex Technology,China,Ningde,https://www.catl.com
+BYD,https://www.byd.com,BYD Company,China,Shenzhen,https://www.byd.com
+LG Energy Solution,https://www.lgensol.com,LG Energy Solution,South Korea,Seoul,https://www.lgensol.com
+Panasonic Energy,https://na.panasonic.com,Panasonic Holdings,Japan,Osaka,https://holdings.panasonic
+Samsung SDI,https://www.samsungsdi.com,Samsung SDI,South Korea,Yongin,https://www.samsungsdi.com
+SK On,https://www.sk-on.com,SK Innovation,South Korea,Seoul,https://www.skinnovation.com
+SVOLT,https://www.svolt.cn,SVOLT Energy Technology,China,Changzhou,https://www.svolt.cn
+Gotion,https://www.gotion.com.cn,Gotion High-tech,China,Hefei,https://www.gotion.com.cn
+EVE Energy,https://www.evebattery.com,EVE Energy,China,Huizhou,https://www.evebattery.com
+CALB,https://www.calb-tech.com,CALB Group,China,Changzhou,https://www.calb-tech.com
+Envision AESC,https://www.aesc-group.com,Envision AESC,China,Shanghai,https://www.aesc-group.com
+Northvolt,https://northvolt.com,Northvolt AB,Sweden,Stockholm,https://northvolt.com
+Clarios,https://www.clarios.com,Clarios International,United States,Glendale,https://www.clarios.com
+Optima,https://www.optimabatteries.com,Clarios International,United States,Glendale,https://www.clarios.com
+Exide,https://www.exide.com,Exide Technologies,United States,Milton,https://www.exide.com
+GS Yuasa,https://www.gs-yuasa.com,GS Yuasa Corporation,Japan,Kyoto,https://www.gs-yuasa.com
+VARTA,https://www.varta-automotive.com,VARTA AG,Germany,Ellwangen,https://www.varta-ag.com
+Lemförder,https://www.lemfoerder.com,ZF Friedrichshafen AG,Germany,Friedrichshafen,https://www.zf.com
+Febi Bilstein,https://www.febi.com,Bilstein Group,Germany,Ennepetal,https://www.bilsteingroup.com
+BILSTEIN,https://www.bilstein.com,thyssenkrupp Bilstein GmbH,Germany,Ennepetal,https://www.thyssenkrupp.com
+JURID,https://www.jurid.com,Tenneco,United States,Northville,https://www.tenneco.com
+Mintex,https://www.mintex.com,TMD Friction,Germany,Leverkusen,https://www.tmdfriction.com
+Elring,https://www.elring.com,ElringKlinger AG,Germany,Dettingen,https://www.elringklinger.de
+Victor Reinz,https://www.victorreinz.com,Dana Incorporated,United States,Maumee,https://www.dana.com
+Pierburg,https://www.pierburg.com,Rheinmetall AG,Germany,Düsseldorf,https://www.rheinmetall.com
+AP Racing,https://www.apracing.com,Brembo S.p.A.,Italy,Stezzano,https://www.brembo.com
+EBC Brakes,https://www.ebcbrakes.com,EBC Brakes Group,United Kingdom,Northampton,https://www.ebcbrakes.com
+Unipart,https://www.unipart.com,Unipart Group,United Kingdom,Oxford,https://www.unipart.com
+Blue Print,https://www.blueprint-adl.com,Bilstein Group,Germany,Ennepetal,https://www.bilsteingroup.com
+CIE Automotive,https://www.cieautomotive.com,CIE Automotive S.A.,Spain,Bilbao,https://www.cieautomotive.com
+Gestamp,https://www.gestamp.com,Gestamp Automoción,Spain,Madrid,https://www.gestamp.com
+Autoliv,https://www.autoliv.com,Autoliv Inc.,Sweden,Stockholm,https://www.autoliv.com
+Haldex,https://www.haldex.com,SAF-HOLLAND,Germany,Bessenbach,https://www.safholland.com
+Plastic Omnium,https://www.plasticomnium.com,Compagnie Plastic Omnium,France,Lyon,https://www.plasticomnium.com
+Hutchinson,https://www.hutchinson.com,Hutchinson S.A.,France,Paris,https://www.hutchinson.com
+Motrio,https://www.motrio.com,Renault Group,France,Boulogne-Billancourt,https://group.renault.com
+Eurorepar,https://www.eurorepar.com,Stellantis,Netherlands,Amsterdam,https://www.stellantis.com
+BERU,https://www.beru.com,BorgWarner Inc.,United States,Auburn Hills,https://www.borgwarner.com
+Lumileds,https://www.lumileds.com,Lumileds Holding B.V.,Netherlands,Amsterdam,https://www.lumileds.com
+Motorcraft,https://www.motorcraft.com,Ford Motor Company,United States,Dearborn,https://www.ford.com
+Mopar,https://www.mopar.com,Stellantis,Netherlands,Amsterdam,https://www.stellantis.com
+MOOG,https://www.moogparts.com,Tenneco,United States,Northville,https://www.tenneco.com
+Fel-Pro,https://www.felpro.com,Tenneco,United States,Northville,https://www.tenneco.com
+Wagner,https://www.wagnerbrake.com,Tenneco,United States,Northville,https://www.tenneco.com
+Walker,https://www.walkerexhaust.com,Tenneco,United States,Northville,https://www.tenneco.com
+Autolite,https://www.autolite.com,First Brands Group,United States,Cleveland,https://www.firstbrands.com
+Prestone,https://www.prestone.com,First Brands Group,United States,Cleveland,https://www.firstbrands.com
+STP,https://www.stp.com,Armored AutoGroup,United States,Danbury,https://www.armoredautogroup.com
+Armor All,https://www.armorall.com,Armored AutoGroup,United States,Danbury,https://www.armoredautogroup.com
+Rain-X,https://www.rainx.com,ITW,United States,Glenview,https://www.itw.com
+Dorman,https://www.dormanproducts.com,Dorman Products,United States,Colmar,https://www.dormanproducts.com
+Standard Motor Products,https://www.smpcorp.com,Standard Motor Products,United States,Long Island City,https://www.smpcorp.com
+CARDONE,https://www.cardone.com,CARDONE Industries,United States,Philadelphia,https://www.cardone.com
+Spectra Premium,https://www.spectrapremium.com,Spectra Premium,Canada,Boucherville,https://www.spectrapremium.com
+Linamar,https://www.linamar.com,Linamar Corporation,Canada,Guelph,https://www.linamar.com
+Martinrea,https://www.martinrea.com,Martinrea International,Canada,Vaughan,https://www.martinrea.com
+Nemak,https://www.nemak.com,Nemak,Mexico,Monterrey,https://www.nemak.com
+Rassini,https://www.rassini.com,Rassini,Mexico,Mexico City,https://www.rassini.com
+Repco,https://www.repco.com.au,Genuine Parts Company,United States,Atlanta,https://www.genpt.com
+Burson Auto Parts,https://www.burson.com.au,Genuine Parts Company,United States,Atlanta,https://www.genpt.com
+Supercheap Auto,https://www.supercheapauto.com.au,Super Retail Group,Australia,Brisbane,https://www.superretailgroup.com.au
+ARB,https://www.arb.com.au,ARB Corporation,Australia,Melbourne,https://www.arb.com.au
+TJM,https://www.tjm.com.au,TJM Products,Australia,Brisbane,https://www.tjm.com.au
+REDARC,https://www.redarc.com.au,REDARC Electronics,Australia,Adelaide,https://www.redarc.com.au
+Whiteline,https://www.whiteline.com.au,Whiteline,Australia,Sydney,https://www.whiteline.com.au
+DBA,https://www.dba.com.au,Disc Brakes Australia,Australia,Sydney,https://www.dba.com.au
+Bendix,https://www.bendix.com.au,FMP Group,Australia,Ballarat,https://www.bendix.com.au
+Ryco,https://www.rycofilters.com.au,GUD Holdings,Australia,Melbourne,https://www.gud.com.au
+NARVA,https://www.narva.com.au,GUD Holdings,Australia,Melbourne,https://www.gud.com.au
+Projecta,https://www.projecta.com.au,GUD Holdings,Australia,Melbourne,https://www.gud.com.au
+Century Batteries,https://www.centurybatteries.com.au,GS Yuasa Corporation,Japan,Kyoto,https://www.gs-yuasa.com
+Pedders,https://www.pedders.com.au,Pedders Suspension,Australia,Melbourne,https://www.pedders.com.au
+PWR,https://www.pwr.com.au,PWR Advanced Cooling,Australia,Gold Coast,https://www.pwr.com.au
+Hitachi Astemo,https://www.hitachiastemo.com,Hitachi Astemo,Japan,Tokyo,https://www.hitachiastemo.com
+EXEDY,https://www.exedy.com,EXEDY Corporation,Japan,Neyagawa,https://www.exedy.com
+RAYS,https://www.rayswheels.co.jp,RAYS Co.,Japan,Osaka,https://www.rayswheels.co.jp
+Enkei,https://www.enkei.com,Enkei Corporation,Japan,Hamamatsu,https://www.enkei.co.jp
+TEIN,https://www.tein.com,TEIN Inc.,Japan,Yokohama,https://www.tein.co.jp
+HKS,https://www.hks-power.co.jp,HKS Co.,Japan,Fujinomiya,https://www.hks-power.co.jp
+GReddy,https://www.trust-power.com,Trust Co.,Japan,Tokyo,https://www.trust-power.com
+CUSCO,https://www.cusco.co.jp,Carrosser Co.,Japan,Tokyo,https://www.cusco.co.jp
+Project Mu,https://www.project-mu.co.jp,Project Mu,Japan,Nagoya,https://www.project-mu.co.jp
+Mugen,https://www.mugen-power.com,M-TEC Co.,Japan,Tokyo,https://www.mugen-power.com
+Mikuni,https://www.mikuni.co.jp,Mikuni Corporation,Japan,Odawara,https://www.mikuni.co.jp
+Nachi,https://www.nachi-fujikoshi.co.jp,Nachi-Fujikoshi,Japan,Toyama,https://www.nachi-fujikoshi.co.jp
+Hyundai Mobis,https://www.mobis.co.kr,Hyundai Mobis,South Korea,Seoul,https://www.mobis.co.kr
+Mando,https://www.hlmando.com,HL Mando,South Korea,Seongnam,https://www.hlmando.com
+Hanon Systems,https://www.hanonsystems.com,Hanon Systems,South Korea,Daejeon,https://www.hanonsystems.com
+Seoyon E-Hwa,https://www.seoyon.com,Seoyon E-Hwa,South Korea,Seoul,https://www.seoyon.com
+PHC,https://www.phc.co.kr,Pyung Hwa Holdings,South Korea,Daegu,https://www.phc.co.kr

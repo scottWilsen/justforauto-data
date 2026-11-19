@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below."
+type: dataset
+title: "Automotive aftermarket supplier records by category and country (November 2026)"
+authors:
+  - family-names: Zhu
+    given-names: Scott
+    affiliation: JustForAuto
+version: "1.0"
+date-released: 2026-11-20
+doi: "10.5281/zenodo.24381983"
+url: "https://justforauto.com/methodology/"
+license: CC-BY-4.0
+keywords:
+  - automotive aftermarket
+  - supplier directory
+  - brand ownership
+  - market data
